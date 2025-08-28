@@ -1,3 +1,4 @@
+package BasicJavaProblems;
 import java.util.Scanner;
 
 public class ReverseNumber 
@@ -6,7 +7,6 @@ public class ReverseNumber
     {
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
-        int orginal_num = number ;
         int reversed = 0;
         int digit = 0;
         while (number !=0)
@@ -18,6 +18,8 @@ public class ReverseNumber
             
         }
         System.err.println("THE REVERSED NUMBER IS "+ reversed);
+        scanner.close();
+
 
     }
  }

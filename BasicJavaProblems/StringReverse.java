@@ -1,3 +1,4 @@
+package BasicJavaProblems;
 import java.util.Scanner;
 public class StringReverse {
     public static void main (String[] args)
@@ -12,6 +13,8 @@ public class StringReverse {
         }
         System.err.println("THE reversed string is :");
         System.err.println(word2);
+        scanner.close();
+
     }
     
 }

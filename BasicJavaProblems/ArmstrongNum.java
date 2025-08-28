@@ -1,3 +1,4 @@
+package BasicJavaProblems;
 import java.util.Scanner;
 public class ArmstrongNum {
 
@@ -25,6 +26,8 @@ public class ArmstrongNum {
                 System.out.println("NO, It is NOT a ARMSTRONG Number");
 
         }
+        scanner.close();
+
 
     }
 }

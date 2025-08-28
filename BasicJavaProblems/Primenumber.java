@@ -1,3 +1,4 @@
+package BasicJavaProblems;
 import java.util.Scanner;
 public class Primenumber 
 {
@@ -21,6 +22,8 @@ public class Primenumber
         else{
             System.out.println(num + "--It is not a Prime Number");
         }
+        scanner.close();
+
     }
 
 }

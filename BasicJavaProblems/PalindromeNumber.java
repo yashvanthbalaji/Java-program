@@ -1,5 +1,5 @@
+package BasicJavaProblems;
 import java.util.Scanner;
-
 public class PalindromeNumber 
  {
     public static void main ( String [ ]args)
@@ -28,6 +28,8 @@ public class PalindromeNumber
             System.out.println(" NOT a Palindrome number " );
             
         }
+        scanner.close();
+
 
     }
  }

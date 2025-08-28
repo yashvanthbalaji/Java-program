@@ -1,3 +1,4 @@
+package BasicJavaProblems;
 import java.util.Scanner;
 public class SumOfDigits
 {
@@ -17,5 +18,7 @@ public class SumOfDigits
 
         }
         System.out.println("Sum of digits of " + original + " is " + sum);
+        scanner.close();
+
     }
 }
