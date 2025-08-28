@@ -1,35 +1,45 @@
-# Java-program 🚀
+# 🚀 Java Problem-Solving Repository
 
-A collection of Java programs for practice and learning. This repository contains solutions to common coding problems, written in **Java**. The goal is to gradually build a strong foundation in problem-solving and algorithms.
-
----
-
-## 📂 Current Programs
-- ✅ Fibonacci Series
-- ✅ Palindrome (String & Number)
-- ✅ Reverse a String
-- ✅ Reverse a Number
-  ✅ MORE PROBLEMS WILL BE UPLOADED DAILY 
+![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square\&logo=java)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
 ---
 
-## 📌 Updates
-I will be adding **new Java problems daily** to this repository. Stay tuned for more!
+## 📖 Overview
+
+This repository is a **personal Java practice collection** where I solve different categories of programming problems — starting with the basics and moving towards **advanced challenges**. It’s designed to improve problem-solving skills, algorithmic thinking, and coding habits.
 
 ---
 
-## 🛠️ How to Run
+## 📂 Repository Structure
+
+* **`BasicJavaProblems/`** → Beginner-friendly Java programs (Fibonacci, Palindrome, Prime numbers, etc.)
+
+  * Each subfolder has its own `README.md` for explanations.
+* More categories (e.g., **Intermediate**, **Advanced**, **Data Structures**, **Algorithms**) will be added in the future.
+
+---
+
+## ✨ Features
+
+✔️ Simple, well-structured Java code examples
+✔️ Organized into categories for easy navigation
+✔️ Beginner → Advanced progression
+✔️ Clean and documented repository
+
+---
+
+## 🚦 Getting Started
+
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yashvanthbalaji/Java-program.git
-   ```
 
-2. Navigate to the folder:
    ```bash
-   cd Java-program
+   git clone https://github.com/YashvanthBalaji/javaPrograms.git
    ```
+2. Navigate into a folder (e.g., `BasicJavaProblems/`).
+3. Compile and run any Java program:
 
-3. Compile and run any Java file:
    ```bash
    javac FileName.java
    java FileName
@@ -37,18 +47,26 @@ I will be adding **new Java problems daily** to this repository. Stay tuned for 
 
 ---
 
-## 🎯 Purpose
-- Improve problem-solving skills
-- Practice Java fundamentals
-- Build a repository of coding problems for reference
+## 📅 Future Plans
+
+🔹 Add **more advanced problems** day by day
+🔹 Include **Data Structures & Algorithms** implementations
+🔹 Add **LeetCode / HackerRank** style problem solutions
+🔹 Improve documentation with **examples & outputs**
 
 ---
 
-## 🤝 Contribution
-Feel free to fork this repo and add your own Java solutions or improvements. Pull requests are welcome!
+## 🤝 Contributions
+
+This is mainly a personal practice repo, but suggestions and improvements are always welcome! Feel free to fork and contribute.
 
 ---
 
-## 📧 Contact
-Maintainer: **Yashvanth Balaji**  
-For queries: [GitHub Profile](https://github.com/yashvanthbalaji)
+## 👤 Author
+
+👨‍💻 **Yashvanth Balaji**
+🔗 [GitHub Profile](https://github.com/YashvanthBalaji)
+
+---
+
+⭐ If you find this repository helpful, don’t forget to **star** it!
